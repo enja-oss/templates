@@ -9,7 +9,7 @@ enja-ossにて新規翻訳プロジェクトを作成する際は、本レポジ
 **npmで通常インストールできるバージョンでは正しく動作しません。**  
 現時点で動作が確認できている`grunt-init`のバージョンは`0.2.0rc3`です。  
 本カスタムテンプレートを`grunt-init`の最新バージョンでテストする以外の目的では以下のコマンドで`0.2.0rc3`をインストールしてください。  
-`[sudo] npm install -g git://github.com/gruntjs/grunt-init.git#0b29125b8a3536c5b11487da88d07c1541b274ff`
+`[sudo] npm install -g git://github.com/gruntjs/grunt-init.git#6ca6a7bd432d77d6641a5cadd210ce15f39d062c`
 
 ## 利用方法
 
