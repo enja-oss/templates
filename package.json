@@ -1,0 +1,19 @@
+{
+  "name": "enja-oss-templates",
+  "version": "0.0.1",
+  "description": "enja-oss project template",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/enja-oss/templates.git"
+  },
+  "dependencies": {
+    "grunt-init": "git://github.com/gruntjs/grunt-init.git#6ca6a7bd432d77d6641a5cadd210ce15f39d062c"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "expect.js": "*"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha ./test/*.js"
+  }
+}
