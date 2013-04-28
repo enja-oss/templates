@@ -7,7 +7,7 @@
     "url": "git://github.com/enja-oss/templates.git"
   },
   "dependencies": {
-    "grunt-init": "git://github.com/gruntjs/grunt-init.git#6ca6a7bd432d77d6641a5cadd210ce15f39d062c"
+    "grunt-init": "0.2.x"
   },
   "devDependencies": {
     "mocha": "*",
